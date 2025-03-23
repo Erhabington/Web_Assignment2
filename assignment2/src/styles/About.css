@@ -1,0 +1,27 @@
+.about {
+    text-align: center;
+    padding: 40px;
+}
+.about img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+.about h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+.about ul {
+    list-style-type: none;
+    padding: 0;
+}
+.about ul li {
+    display: inline-block;
+    background: #2575fc;
+    color: white;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 5px;
+}

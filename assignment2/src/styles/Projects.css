@@ -1,0 +1,14 @@
+.projects {
+    text-align: center;
+    padding: 40px;
+}
+.projects h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+.project-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
